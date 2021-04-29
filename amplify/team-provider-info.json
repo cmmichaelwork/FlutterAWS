@@ -1,0 +1,56 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ajouter-dev-210540-authRole",
+      "UnauthRoleArn": "arn:aws:iam::183103932531:role/amplify-ajouter-dev-210540-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::183103932531:role/amplify-ajouter-dev-210540-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ajouter-dev-210540-deployment",
+      "UnauthRoleName": "amplify-ajouter-dev-210540-unauthRole",
+      "StackName": "amplify-ajouter-dev-210540",
+      "StackId": "arn:aws:cloudformation:us-east-1:183103932531:stack/amplify-ajouter-dev-210540/60003450-a0ab-11eb-88cb-0e3b177c99d5",
+      "AmplifyAppId": "d1hbovvs78wxti"
+    },
+    "categories": {
+      "auth": {
+        "ajouter5dc5d5ba": {}
+      }
+    }
+  },
+  "new": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ajouter-new-143525-authRole",
+      "UnauthRoleArn": "arn:aws:iam::183103932531:role/amplify-ajouter-new-143525-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::183103932531:role/amplify-ajouter-new-143525-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ajouter-new-143525-deployment",
+      "UnauthRoleName": "amplify-ajouter-new-143525-unauthRole",
+      "StackName": "amplify-ajouter-new-143525",
+      "StackId": "arn:aws:cloudformation:us-east-1:183103932531:stack/amplify-ajouter-new-143525/ade701c0-a462-11eb-92b1-0e89978ed963",
+      "AmplifyAppId": "d1hbovvs78wxti"
+    },
+    "categories": {
+      "auth": {
+        "ajouter5dc5d5ba": {}
+      }
+    }
+  },
+  "testnew": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ajouter-testnew-160859-authRole",
+      "UnauthRoleArn": "arn:aws:iam::183103932531:role/amplify-ajouter-testnew-160859-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::183103932531:role/amplify-ajouter-testnew-160859-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ajouter-testnew-160859-deployment",
+      "UnauthRoleName": "amplify-ajouter-testnew-160859-unauthRole",
+      "StackName": "amplify-ajouter-testnew-160859",
+      "StackId": "arn:aws:cloudformation:us-east-1:183103932531:stack/amplify-ajouter-testnew-160859/bff8c990-a46f-11eb-8aac-1226a942184b",
+      "AmplifyAppId": "d1hbovvs78wxti"
+    },
+    "categories": {
+      "auth": {
+        "ajouter5dc5d5ba": {}
+      }
+    }
+  }
+}
